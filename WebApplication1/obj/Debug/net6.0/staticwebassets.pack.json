@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\css\\demo.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\css\\main-style.css",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\css\\main-style.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\1.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\10.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\11.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\12.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\13.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\14.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\15.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\2.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\3.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\4.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\5.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\6.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\7.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\8.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\images\\9.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\index.html",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\index.html"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\js\\jquery.catslider.js",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\js\\jquery.catslider.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\ItemSlider\\js\\modernizr.custom.63321.js",
+      "PackagePath": "staticwebassets\\assets\\ItemSlider\\js\\modernizr.custom.63321.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\S22plus.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\S22plus.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\S22ultra.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\S22ultra.jpg"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\dummyimg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dummyimg.png"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Dante\\UEF\\PTUngdungWeb\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
